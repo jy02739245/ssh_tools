@@ -29,15 +29,13 @@
 104.27.79.142#🇺🇸 | US | Cloudflare
 172.64.231.236#🇺🇸 | US | Cloudflare
 104.18.42.54#🇺🇸 | US | Cloudflare
-104.19.34.19#🇺🇸 | US | Cloudflare
-104.19.44.5#🇺🇸 | US | Cloudflare
-104.19.45.11#🇺🇸 | US | Cloudflare
 104.19.59.34#🇺🇸 | US | Cloudflare
-104.19.61.43#🇺🇸 | US | Cloudflare
 104.19.229.21#🇺🇸 | US | Cloudflare
+104.19.230.21#🇺🇸 | US | Cloudflare
 162.159.152.2#🇺🇸 | US | Cloudflare
 162.159.153.2#🇺🇸 | US | Cloudflare
 172.64.145.202#🇺🇸 | US | Cloudflare
+172.64.147.134#🇺🇸 | US | Cloudflare
 172.67.70.92#🇺🇸 | US | Cloudflare
 47.74.157.194#🇸🇬 | SG | Alibaba
 168.138.184.172#🇸🇬 | SG | Oracle
