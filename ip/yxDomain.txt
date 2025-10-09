@@ -5,4 +5,5 @@ fn.130519.xyz#fn.130519.xyz
 mfa.gov.ua#乌克兰政府
 www.shopify.com#shopify
 yd.iori3.pp.ua#移动优选
-cf.twitter.now.cc#nowcc
+saas.sin.fan#MIYU维护
+cloudflare-dl.byoip.top#fishcpy维护
