@@ -1,9 +1,3 @@
-104.16.136.103#🇺🇸 | US | Cloudflare
-104.17.47.204#🇺🇸 | US | Cloudflare
-104.18.34.68#🇺🇸 | US | Cloudflare
-104.18.208.83#🇺🇸 | US | Cloudflare
-104.18.252.179#🇺🇸 | US | Cloudflare
-162.159.22.45#🇺🇸 | US | Cloudflare
 104.17.19.63#🇺🇸 | US | Cloudflare
 104.17.123.165#🇺🇸 | US | Cloudflare
 104.17.157.47#🇺🇸 | US | Cloudflare
