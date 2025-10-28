@@ -24,14 +24,14 @@
 104.18.42.54#🇺🇸 | US | Cloudflare
 104.19.44.24#🇺🇸 | US | Cloudflare
 104.19.44.44#🇺🇸 | US | Cloudflare
-104.19.49.49#🇺🇸 | US | Cloudflare
 104.19.52.15#🇺🇸 | US | Cloudflare
-104.19.59.25#🇺🇸 | US | Cloudflare
+104.19.59.34#🇺🇸 | US | Cloudflare
 162.159.152.2#🇺🇸 | US | Cloudflare
 162.159.153.2#🇺🇸 | US | Cloudflare
 172.64.32.126#🇺🇸 | US | Cloudflare
 172.64.145.202#🇺🇸 | US | Cloudflare
 172.64.147.134#🇺🇸 | US | Cloudflare
+172.64.147.227#🇺🇸 | US | Cloudflare
 172.64.229.214#🇺🇸 | US | Cloudflare
 172.67.70.92#🇺🇸 | US | Cloudflare
 173.245.58.127#🇺🇸 | US | Cloudflare
