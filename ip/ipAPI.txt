@@ -19,6 +19,7 @@
 104.27.14.179#🇺🇸 | US | Cloudflare
 104.27.46.87#🇺🇸 | US | Cloudflare
 172.67.239.23#🇺🇸 | US | Cloudflare
+104.18.12.229#🇺🇸 | US | Cloudflare
 104.18.13.229#🇺🇸 | US | Cloudflare
 104.18.42.54#🇺🇸 | US | Cloudflare
 104.19.44.24#🇺🇸 | US | Cloudflare
@@ -27,6 +28,7 @@
 162.159.152.2#🇺🇸 | US | Cloudflare
 172.64.145.202#🇺🇸 | US | Cloudflare
 172.64.147.134#🇺🇸 | US | Cloudflare
+172.64.229.187#🇺🇸 | US | Cloudflare
 172.64.229.214#🇺🇸 | US | Cloudflare
 172.67.70.92#🇺🇸 | US | Cloudflare
 195.85.59.161#🇨🇾 | CY | Cloudflare
