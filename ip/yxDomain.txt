@@ -6,6 +6,6 @@ mfa.gov.ua#乌克兰政府
 www.shopify.com#shopify
 saas.sin.fan#MIYU维护
 store.ubi.com#Ubisoft
-staticdelivery.nexusmods.com#NexusMods
-cloudflare-dl.byoip.top#fishcpy维护
 cf.130519.xyz#小小周
+www.nexusmods.com#nexusmods
+openai.com#openai
