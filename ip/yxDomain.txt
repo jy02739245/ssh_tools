@@ -9,6 +9,7 @@ store.ubi.com#Ubisoft
 cf.130519.xyz#小小周
 www.nexusmods.com#nexusmods
 openai.com#openai
+www.udacity.com#udacity
 104.17.197.40:2053#SJC-1
 172.64.153.38:2053#HKG-1
 162.159.136.180:2053#NRT-1
