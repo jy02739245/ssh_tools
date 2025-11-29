@@ -1,4 +1,5 @@
-bestip.bpnode.pp.ua:2087#自用
+hk.iori.nyc.mn:2087#自用HK
+jp.iori.nyc.mn:2087#自用JP
 www.visa.cn#visa中国
 cf.090227.xyz#CM维护
 cf.877774.xyz#秋名山维护
