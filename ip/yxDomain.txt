@@ -1,12 +1,12 @@
 hk.iori.nyc.mn:2087#自用HK
 jp.iori.nyc.mn:2087#自用JP
 www.visa.cn#visa中国
+saas.sin.fan#MIYU维护
 cf.090227.xyz#CM维护
-cf.877774.xyz#秋名山维护
+www.wto.org#wto
 mfa.gov.ua#乌克兰政府
 www.shopify.com#shopify
 store.ubi.com#Ubisoft
 www.nexusmods.com#nexusmods
 openai.com#openai
-www.5h.com#5h
-www.wuhan.com#wuhan
+cdn.ff93.xyz#ff93
