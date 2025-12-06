@@ -10,3 +10,4 @@ store.ubi.com#Ubisoft
 www.nexusmods.com#nexusmods
 openai.com#openai
 cdn.ff93.xyz#ff93
+cf.tencentapp.cn#ktff维护
