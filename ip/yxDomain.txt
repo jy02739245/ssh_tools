@@ -7,8 +7,8 @@ cf.877774.xyz#秋名山
 mfa.gov.ua#乌克兰政府
 www.shopify.com#shopify
 store.ubi.com#Ubisoft
-www.nexusmods.com#nexusmods
+staticdelivery.nexusmods.com#nexusmods
 openai.com#openai
-cdn.ff93.xyz#ff93
 cf.tencentapp.cn#ktff
 bestcf.030101.xyz#Mingyu
+cf.cloudflare.182682.xyz#182682
