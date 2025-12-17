@@ -2,7 +2,7 @@ hk.iori.nyc.mn:2087#HK
 jp.iori.nyc.mn:2087#JP
 www.visa.cn#visa
 saas.sin.fan#MIYU
-cf.090227.xyz#CM
+youxuan.cf.090227.xyz#CM
 cf.877774.xyz#秋名山
 mfa.gov.ua#乌克兰政府
 www.shopify.com#shopify
