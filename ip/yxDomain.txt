@@ -1,5 +1,3 @@
-hk.iori.nyc.mn:2087#HK
-jp.iori.nyc.mn:2087#JP
 www.visa.cn#visa
 saas.sin.fan#MIYU
 youxuan.cf.090227.xyz#CM
