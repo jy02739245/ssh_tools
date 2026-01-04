@@ -1,12 +1,9 @@
+bestip.bpnode.pp.ua#自用
 www.visa.cn#visa
 saas.sin.fan#MIYU
 youxuan.cf.090227.xyz#CM
 cf.877774.xyz#秋名山
-mfa.gov.ua#乌克兰政府
 www.shopify.com#shopify
 store.ubi.com#Ubisoft
-staticdelivery.nexusmods.com#nexusmods
-openai.com#openai
 cf.tencentapp.cn#ktff
-bestcf.030101.xyz#Mingyu
-cf.cloudflare.182682.xyz#182682
+cf.cloudflare.182682.xyz#WeTest
