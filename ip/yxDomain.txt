@@ -4,8 +4,11 @@ saas.sin.fan#MIYU
 youxuan.cf.090227.xyz#CM
 cf.877774.xyz#秋名山
 www.shopify.com#shopify
-store.ubi.com#Ubisoft
 cf.tencentapp.cn#ktff
 cf.3666888.xyz#3666888
 cmcc.cloudflare.seeck.cn#seeck移动
-cf.cloudflare.182682.xyz#WeTest
+cf.mubaiovo.top#mubaiovo
+cloudflare.rainyfall.com#rainyfall
+blog.646474.xyz#blog.646474.xyz
+cfdl.3666888.xyz#cfdl
+cf.468123.xyz#468123
