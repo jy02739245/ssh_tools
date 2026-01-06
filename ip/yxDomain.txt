@@ -13,3 +13,4 @@ cf.zhetengsha.eu.org#zhetengsha
 cloudflare.cnae.top#cnae
 freeyx.cloudflare88.eu.org#freeyx
 p.etime.vip#etime
+cdn.xiaoli.top#xiaoli
