@@ -9,5 +9,5 @@ blog.646474.xyz#646474
 cloudflare.cnae.top#cnae
 freeyx.cloudflare88.eu.org#freeyx
 p.etime.vip#etime
-cdn.xiaoli.top#xiaoli
-aqua-aria.company#aqua
+cf.tvtv.de5.net#tvtv
+cloudflare.idc.rocks#idc.rocks
