@@ -32,7 +32,6 @@
 172.64.229.58#🇺🇸 | US | Cloudflare
 172.64.229.63#🇺🇸 | US | Cloudflare
 172.64.229.73#🇺🇸 | US | Cloudflare
-172.64.229.139#🇺🇸 | US | Cloudflare
 172.64.229.155#🇺🇸 | US | Cloudflare
 172.64.229.191#🇺🇸 | US | Cloudflare
 172.64.229.225#🇺🇸 | US | Cloudflare
