@@ -34,13 +34,17 @@
 162.159.39.197#🇺🇸 | US | Cloudflare
 104.16.249.61#🇺🇸 | US | Cloudflare
 104.16.249.241#🇺🇸 | US | Cloudflare
-104.17.23.15#🇺🇸 | US | Cloudflare
 104.17.23.120#🇺🇸 | US | Cloudflare
 104.17.23.190#🇺🇸 | US | Cloudflare
 104.17.121.19#🇺🇸 | US | Cloudflare
 104.17.121.111#🇺🇸 | US | Cloudflare
+104.18.13.229#🇺🇸 | US | Cloudflare
 104.18.40.113#🇺🇸 | US | Cloudflare
 104.18.42.54#🇺🇸 | US | Cloudflare
+104.19.34.19#🇺🇸 | US | Cloudflare
+104.19.54.39#🇺🇸 | US | Cloudflare
+104.19.57.40#🇺🇸 | US | Cloudflare
+104.19.59.34#🇺🇸 | US | Cloudflare
 104.19.229.21#🇺🇸 | US | Cloudflare
 104.19.230.21#🇺🇸 | US | Cloudflare
 108.162.198.24#🇺🇸 | US | Cloudflare
@@ -54,6 +58,7 @@
 172.64.147.134#🇺🇸 | US | Cloudflare
 172.67.70.92#🇺🇸 | US | Cloudflare
 195.85.59.95#🇨🇾 | CY | Cloudflare
+195.85.59.161#🇨🇾 | CY | Cloudflare
 157.254.32.94:38165#🇭🇰 | HK | Sharon
 46.232.109.220:20116#🇭🇰 | HK | Unknown
 2606:4700:57:c2b6:6945:4a5c:62c4:d9de#🇺🇸 | US | Cloudflare
