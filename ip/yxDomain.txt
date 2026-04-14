@@ -5,4 +5,4 @@ saas.sin.fan#MIYU
 cf.877774.xyz#秋名山
 cf.tencentapp.cn#ktff
 freeyx.cloudflare88.eu.org#freeyx
-vmiss.664667.xyz#664667
+cf.mubaiovo.top:443#mubaiovo
