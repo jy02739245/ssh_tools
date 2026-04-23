@@ -6,4 +6,5 @@ cf.877774.xyz#秋名山
 cf.tencentapp.cn#ktff
 freeyx.cloudflare88.eu.org#freeyx
 cf.mubaiovo.top:443#mubaiovo
+blog.646474.xyz:2053#646474
 bestip.bpnode.pp.ua#自用
