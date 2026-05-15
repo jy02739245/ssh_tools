@@ -1,5 +1,4 @@
-sstp://vpn:vpn@public-vpn-194.opengw.net:443#JP-219.100.37.246
-sstp://vpn:vpn@public-vpn-238.opengw.net:443#JP-219.100.37.245
+sstp://vpn:vpn@public-vpn-221.opengw.net:443#JP-219.100.37.244
 sstp://vpn:vpn@public-vpn-241.opengw.net:443#JP-219.100.37.244
 sstp://vpn:vpn@public-vpn-121.opengw.net:443#JP-219.100.37.238
 sstp://vpn:vpn@public-vpn-229.opengw.net:443#JP-219.100.37.246
@@ -17,9 +16,9 @@ sstp://vpn:vpn@vpn743566583.opengw.net:1775#VN-42.117.129.62
 sstp://vpn:vpn@public-vpn-154.opengw.net:443#JP-219.100.37.240
 sstp://vpn:vpn@vpn501777821.opengw.net:1323#JP-126.220.125.3
 sstp://vpn:vpn@vpn689861184.opengw.net:995#KR-183.99.8.182
+sstp://vpn:vpn@vpn555964923.opengw.net:1782#KR-115.91.77.92
 sstp://vpn:vpn@vpn686706955.opengw.net:1551#JP-180.92.24.7
 sstp://vpn:vpn@vpn945893058.opengw.net:1242#JP-59.138.139.69
-sstp://vpn:vpn@vpn555964923.opengw.net:1782#KR-115.91.77.92
 sstp://vpn:vpn@vpn841067207.opengw.net:995#ID-103.19.110.35
 sstp://vpn:vpn@vpn642933490.opengw.net:995#KR-14.36.104.90
 sstp://vpn:vpn@vpn139784380.opengw.net:995#KR-220.86.42.184
@@ -39,6 +38,7 @@ sstp://vpn:vpn@vpn112771812.opengw.net:1891#KR-114.202.149.234
 sstp://vpn:vpn@vpn518205935.opengw.net:1874#JP-118.111.205.118
 sstp://vpn:vpn@vpn981697033.opengw.net:1254#JP-113.145.230.120
 sstp://vpn:vpn@vpn833192079.opengw.net:995#KR-125.143.69.67
+sstp://vpn:vpn@vpn198732322.opengw.net:1312#JP-153.211.39.215
 sstp://vpn:vpn@vpn314697376.opengw.net:1522#VN-113.22.50.231
 sstp://vpn:vpn@n26.opengw.net:1194#JP-110.163.147.10
 sstp://vpn:vpn@vpn940496795.opengw.net:1242#JP-118.241.169.191
@@ -48,9 +48,11 @@ sstp://vpn:vpn@vpn279158389.opengw.net:1723#JP-220.219.199.157
 sstp://vpn:vpn@vpn525742377.opengw.net:1511#JP-153.198.71.202
 sstp://vpn:vpn@vpn108030929.opengw.net:1940#JP-118.156.222.242
 sstp://vpn:vpn@vpn739407957.opengw.net:1629#JP-210.148.238.80
+sstp://vpn:vpn@vpn868554692.opengw.net:1467#JP-152.117.232.204
 sstp://vpn:vpn@vpn192923708.opengw.net:1725#JP-60.103.227.201
 sstp://vpn:vpn@vpn965061218.opengw.net:995#KR-61.76.190.128
 sstp://vpn:vpn@vpn830655314.opengw.net:1674#KR-221.163.229.183
+sstp://vpn:vpn@vpn221704151.opengw.net:1263#JP-27.121.233.137
 sstp://vpn:vpn@vpn889557350.opengw.net:1708#JP-59.129.195.81
 sstp://vpn:vpn@vpn737139331.opengw.net:1403#JP-124.18.14.66
 sstp://vpn:vpn@vpn610142614.opengw.net:1525#JP-124.140.154.54
