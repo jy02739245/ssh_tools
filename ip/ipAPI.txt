@@ -31,11 +31,14 @@
 104.26.13.227#🇺🇸 | US | Cloudflare
 104.27.14.188#🇺🇸 | US | Cloudflare
 172.67.185.91#🇺🇸 | US | Cloudflare
-104.18.42.54#🇺🇸 | US | Cloudflare
-172.64.53.215#🇺🇸 | US | Cloudflare
-172.64.144.43#🇺🇸 | US | Cloudflare
+104.16.150.241#🇺🇸 | US | Cloudflare
+172.64.144.66#🇺🇸 | US | Cloudflare
+172.64.144.172#🇺🇸 | US | Cloudflare
 172.64.144.178#🇺🇸 | US | Cloudflare
+172.64.145.8#🇺🇸 | US | Cloudflare
+172.64.145.202#🇺🇸 | US | Cloudflare
 172.64.147.129#🇺🇸 | US | Cloudflare
+172.64.152.5#🇺🇸 | US | Cloudflare
 172.67.70.92#🇺🇸 | US | Cloudflare
 157.254.32.94:38165#🇭🇰 | HK | Sharon
 46.232.109.220:20116#🇭🇰 | HK | Unknown
