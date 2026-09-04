@@ -32,13 +32,13 @@
 104.19.147.219#🇺🇸 | US | Cloudflare
 104.20.21.223#🇺🇸 | US | Cloudflare
 104.26.3.131#🇺🇸 | US | Cloudflare
-104.16.150.199#🇺🇸 | US | Cloudflare
-172.64.53.176#🇺🇸 | US | Cloudflare
-172.64.53.182#🇺🇸 | US | Cloudflare
+172.64.144.49#🇺🇸 | US | Cloudflare
 172.64.144.160#🇺🇸 | US | Cloudflare
+172.64.144.225#🇺🇸 | US | Cloudflare
+172.64.145.47#🇺🇸 | US | Cloudflare
 172.64.145.166#🇺🇸 | US | Cloudflare
+172.64.146.52#🇺🇸 | US | Cloudflare
 172.64.147.6#🇺🇸 | US | Cloudflare
-172.64.147.67#🇺🇸 | US | Cloudflare
 172.67.70.92#🇺🇸 | US | Cloudflare
 157.254.32.94:38165#🇭🇰 | HK | Sharon
 46.232.109.220:20116#🇭🇰 | HK | Unknown
